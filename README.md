@@ -6,8 +6,6 @@ Estou começando a trabalhar com a AWS Cloud e seria incrível poder compartilha
 estarei solicitando que uma Inteligência Artificial cite um caso de uso de empresas (com nomes fictícios) que tenham interesse em migrar sua infraestrutura on-premise para Cloud. A partir destes casos de uso,
 irei montar diagramas (para melhor compreenssão) e desenvolver as infraestruturas de forma prática na AWS.
 
-> Datalhe: também haverá um pouco de Shell Scripting. 🤭
-
 Se surgir alguma dúvida ou sugestão, sinta-se à vontade em comentar. Procurarei monitorar e atualizar semanalmente este repositório (ou a medida que for desenvolvendo meus projetos
 pessoais).
 
