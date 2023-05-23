@@ -41,21 +41,21 @@ Aqui estão os principais pontos da migração da TechLogistics para a AWS:
 
 Para verificar a estimativa de custos, entre no site do AWS Pricing Calculator [clicando aqui](https://calculator.aws/#/estimate?id=a05a39a82aec6f8da78674d832d534578b616b97) ou confira a tabela abaixo.
 
-|  ***Serviço***  | ***Custos p/ mês*** | ***Custos Anual*** |
-|:---------------:|--------------------:|-------------------:|
-|Route53          |$ 2,21               |$ 26,52             |
-|CloudFront       |$ 133,50             |$ 1.602,00          |
-|WAF              |$ 10,00              |$ 120,00            |
-|LoadBalancer     |$ 308,43             |$ 3.701,16          |
-|EC2              |$ 560,32             |$ 6.723,84          |
-|VPC              |$ 65,74              |$ 788,88            |
-|RDS              |$ 575,62             |$ 6.907,44          |
-|CloudWatch       |$ 8,51               |$ 102,12            |
-|CodeDeploy       |$ 3,60               |$ 43,20             |
-|CodePipeline     |$ 2,00               |$ 24,00             |
-|S3               |$ 0,01               |$ 0,12              |
-|GuardDuty        |$ 6,06               |$ 72,72             |
-|***Custo Total***|$ 2384,64            |$ 20.111,05         |
+|  ***Serviço***  | ***Custos p/ mês***  | ***Custos Anuais*** |
+|:---------------:|---------------------:|--------------------:|
+|Route53          |$ 2,21                |$ 26,52              |
+|CloudFront       |$ 133,50              |$ 1.602,00           |
+|WAF              |$ 10,00               |$ 120,00             |
+|LoadBalancer     |$ 308,43              |$ 3.701,16           |
+|EC2              |$ 560,32              |$ 6.723,84           |
+|VPC              |$ 65,74               |$ 788,88             |
+|RDS              |$ 575,62              |$ 6.907,44           |
+|CloudWatch       |$ 8,51                |$ 102,12             |
+|CodeDeploy       |$ 3,60                |$ 43,20              |
+|CodePipeline     |$ 2,00                |$ 24,00              |
+|S3               |$ 0,01                |$ 0,12               |
+|GuardDuty        |$ 6,06                |$ 72,72              |
+|***Custo Total***|$ 1.676,00            |$ 20.111,05          |
 
 ## 💼 Descritivo técnico dos serviços selecionados
 Nesta sessão, comentarei um pouco acerca dos serviços selecionados e uma breve instrução de como será configurado.
