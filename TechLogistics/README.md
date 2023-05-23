@@ -21,7 +21,7 @@ Aqui estão os principais pontos da migração da TechLogistics para a AWS:
 - **Processamento de eventos em tempo real:** A TechLogistics está interessada em obter insights em tempo real sobre os eventos de transporte, como a localização dos veículos e as atualizações de entrega. É importante que a infraestrutura possa processar e analisar esses eventos em tempo real.
 
 ## 💡 Diagrama da Implantação
-![](https://github.com/vitor-antoni/aws-building-architectures/blob/main/techsol/TechLogistics%20Diagrama.svg "Diagrama de implantação")
+![](https://github.com/vitor-antoni/aws-building-architectures/blob/main/TechLogistics/TechLogistics%20Diagrama.svg "Diagrama de implantação")
 
 ### Observações sobre IP's
 - *Private Route Table*
