@@ -15,6 +15,7 @@ devidamente, verídica. Portanto, não possuo NENHUM vínculo com estas empresas
 ## 🚀 Casos de uso
 #### Abaixo, você pode conferir um breve resumo sobre cada empresa neste repositório.
 - **TechSol** <br>
+A TechSol é uma empresa de tecnologia de médio porte que fornece soluções personalizadas de software para clientes em várias indústrias. A empresa tem experimentado um crescimento constante nos últimos anos e atualmente hospeda sua infraestrutura de TI em um data center on-premise.
 
 ## 📑 Informações adicionais
 
