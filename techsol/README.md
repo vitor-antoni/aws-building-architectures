@@ -58,7 +58,7 @@ Para verificar a estimativa de custos, entre no site do AWS Pricing Calculator [
 |***Custo Total***|$ 2384,64            |$ 20.111,05         |
 
 ## 💼 Descritivo técnico dos serviços selecionados
-Nesta sessão, comentarei um pouco acerca dos serviços selecionados e ma breve instrução de como será configurado.
+Nesta sessão, comentarei um pouco acerca dos serviços selecionados e uma breve instrução de como será configurado.
 
 - ***Route53:*** Este é o serviço de DNS da AWS, logo, com ele será possível utilizar um domínio próprio da empresa TechLogistics para acessar os recursos da VPC a partir da Internet utilizando um domínio.
 - ***CloudFront:*** Este serviço vai ser responsável por entregar conteúdo com baixa latência aos usuários, dado que uma vez que um dado é requisitado, ele é armazenado em cache para que a próxima requisição seja mais rápida.
