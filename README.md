@@ -9,10 +9,13 @@ irei montar diagramas (para melhor compreenssão) e desenvolver as infraestrutur
 Se surgir alguma dúvida ou sugestão, sinta-se à vontade em comentar. Procurarei monitorar e atualizar semanalmente este repositório (ou a medida que for desenvolvendo meus projetos
 pessoais).
 
-## 🚀 Casos de uso
-#### Abaixo, você pode conferir um breve resumo sobre caso de uso contido neste repositório:
+> Os nomes de empresas são gerados **aleatoriamente** pela inteligência artificial que desenvolveu o caso de uso. Todavia, NENHUMA informação a respeito das empresas presentes neste repositório é,
+devidamente, verídica. Portanto, não possuo NENHUM vínculo com estas empresas *fictícias* , logo, peço desculpas se, por acaso, for utilizado o nome de uma empresa já existente.
 
-##### [MAIS NOVO - MAIS ANTIGO]
+## 🚀 Casos de uso
+#### Abaixo, você pode conferir um breve resumo sobre cada empresa neste repositório.
+- **TechSol** <br>
+A TechSol é uma empresa de tecnologia de médio porte que fornece soluções personalizadas de software para clientes em várias indústrias. A empresa tem experimentado um crescimento constante nos últimos anos e atualmente hospeda sua infraestrutura de TI em um data center on-premise.
 
 ## 📑 Informações adicionais
 
