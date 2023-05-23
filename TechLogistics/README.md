@@ -1,7 +1,7 @@
 # TechLogistics
 
 ### Apresentação
-Olá, bem vindo(a) ao projeto da empresa TechLogistics. Neste projeto, solicitei a IA ChatGPT 3.5 para que gerasse um caso de uso acerca de uma empresa que possuí sua infraestrutura hospedada no on-presmise e deseja migrar para nuvem.
+Olá, bem vindo(a) ao projeto da empresa TechLogistics. Neste projeto, solicitei a IA ChatGPT para que gerasse um caso de uso acerca de uma empresa que possuí sua infraestrutura hospedada no on-presmise e deseja migrar para nuvem.
 
 ## 📃 Caso de uso
 A TechLogistics atua no setor de logística e transporte e deseja migrar sua infraestrutura local. No entanto, a equipe de TI da TechLogistics percebeu que a infraestrutura on-premise está ficando cara de manter e limita sua capacidade de escalar rapidamente para atender à demanda crescente dos clientes. Além disso, eles estão preocupados com a segurança, a disponibilidade e a confiabilidade de seus sistemas.
