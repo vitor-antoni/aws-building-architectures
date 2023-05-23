@@ -14,8 +14,8 @@ devidamente, verídica. Portanto, não possuo NENHUM vínculo com estas empresas
 
 ## 🚀 Casos de uso
 #### Abaixo, você pode conferir um breve resumo sobre cada empresa neste repositório.
-- **TechSol** <br>
-A TechSol é uma empresa de tecnologia de médio porte que fornece soluções personalizadas de software para clientes em várias indústrias. A empresa tem experimentado um crescimento constante nos últimos anos e atualmente hospeda sua infraestrutura de TI em um data center on-premise.
+- **TechLogistics** <br>
+A TechLogistics atua no setor de logística e transporte e deseja migrar sua infraestrutura local. No entanto, a equipe de TI da TechLogistics percebeu que a infraestrutura on-premise está ficando cara de manter e limita sua capacidade de escalar rapidamente para atender à demanda crescente dos clientes. Além disso, eles estão preocupados com a segurança, a disponibilidade e a confiabilidade de seus sistemas.
 
 ## 📑 Informações adicionais
 
