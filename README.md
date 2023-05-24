@@ -21,4 +21,4 @@ A TechLogistics atua no setor de logística e transporte e deseja migrar sua inf
 
 Conforme eu avançar e me aprofundar meus conhecimentos neste serviço, pretendo trazer mais conteúdo para este repositório.
 
-Enquanto isto, você pode me acompanhar na minha rede social onde posto alguns conteúdos referentes a Cloud Computing: [LinkedIn](linkedin.com/in/vitor-silva-de-antoni/)
+Enquanto isto, você pode me acompanhar na minha rede social onde posto alguns conteúdos referentes a Cloud Computing: [LinkedIn](https://linkedin.com/in/vitor-silva-de-antoni/)
