@@ -73,3 +73,7 @@ Nesta sessão, comentarei um pouco acerca dos serviços selecionados e uma breve
 - ***S3 Bucket***: Será criado um Bucket do S3 para que os desenvolvedores possam realizar o upload do arquivo da aplicação atualizado, sendo aplicada atualização através do CodePipeline e CodeDeploy.
 - ***GuardDuty***: Este serviço é importante para nós monitoramos as vulnerabilidades em nossa infraestrutura.
 
+***
+
+
+
