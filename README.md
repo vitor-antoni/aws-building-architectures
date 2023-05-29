@@ -14,6 +14,9 @@ devidamente, verídica. Portanto, não possuo NENHUM vínculo com estas empresas
 
 ## 🚀 Casos de uso
 #### Abaixo, você pode conferir um breve resumo sobre cada empresa neste repositório.
+- **JurisConsult** <br>
+A JurisConsult é uma renomada empresa de advocacia especializada em fornecer serviços jurídicos abrangentes e soluções legais personalizadas para seus clientes. Com uma equipe experiente de advogados especializados em diversas áreas do direito, a empresa se destaca pela sua competência técnica, ética profissional e compromisso em oferecer um atendimento excepcional.
+
 - **TechLogistics** <br>
 A TechLogistics atua no setor de logística e transporte e deseja migrar sua infraestrutura local. No entanto, a equipe de TI da TechLogistics percebeu que a infraestrutura on-premise está ficando cara de manter e limita sua capacidade de escalar rapidamente para atender à demanda crescente dos clientes. Além disso, eles estão preocupados com a segurança, a disponibilidade e a confiabilidade de seus sistemas.
 
