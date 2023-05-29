@@ -1,4 +1,4 @@
-# TechLogistics
+# JurisConsult
 
 ### Apresentação
 Olá, bem vindo(a) ao projeto da empresa JurisConsult. Neste projeto, solicitei à IA ChatGPT para que gerasse um caso de uso acerca de uma empresa que deseja ter um website próprio para divulgar seus serviços e produtos.
