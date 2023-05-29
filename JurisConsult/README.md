@@ -9,7 +9,7 @@ A JurisConsult é uma renomada empresa de advocacia especializada em fornecer se
 A JurisConsult busca ter um site estático como uma ferramenta de comunicação eficaz para informar potenciais clientes sobre sua expertise e serviços jurídicos. O site estático apresentará informações sobre as áreas de atuação da empresa, sua equipe de advogados, cases de sucesso e formas de contato. Além disso, o objetivo é transmitir uma imagem de confiança, credibilidade e profissionalismo, fornecendo um meio acessível para que os clientes em potencial conheçam melhor a empresa e possam solicitar seus serviços jurídicos. Um site estático é ideal para esse propósito, pois permite apresentar informações claras e estáveis sem a necessidade de atualizações frequentes.
 
 ## 💡 Diagrama da Implantação
-
+![](https://github.com/vitor-antoni/aws-building-architectures/blob/main/JurisConsult/JurisConsult%20Diagrama.svg)
 
 ## 💷 Custos de implantação
 > Foi realizada uma *estimativa* de custos utilizando o serviço Princing Calculator da AWS.
