@@ -14,7 +14,7 @@ A JurisConsult busca ter um site estático como uma ferramenta de comunicação 
 ## 💷 Custos de implantação
 > Foi realizada uma *estimativa* de custos utilizando o serviço Princing Calculator da AWS.
 
-Para verificar a estimativa de custos, entre no site do AWS Pricing Calculator [clicando aqui]() ou confira a tabela abaixo.
+Para verificar a estimativa de custos, entre no site do AWS Pricing Calculator [clicando aqui](JurisConsult) ou confira a tabela abaixo.
 
 |  ***Serviço***  | ***Custos p/ mês***  | ***Custos Anuais*** |
 |:---------------:|---------------------:|--------------------:|
